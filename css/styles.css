@@ -1,0 +1,44 @@
+.important {
+  color: blue
+}
+
+.unimportant {
+  color: red
+}
+
+.highlight {
+  color: yellow
+}
+
+/* body {
+  background-color: lightblue
+} */
+
+body {
+ background-image: url("https://buffer.com/library/wp-content/uploads/2016/06/giphy.gif");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+h2 {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.center {
+  width: 50%;
+  /* height: auto; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol {
+  background-color: lightgrey;
+  text-align: center;
+}
